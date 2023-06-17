@@ -15,4 +15,3 @@ The initial task was to design a keyboard interface as a web app. The keyboard l
 
 This interface was achieved by designing in HTML, CSS and dynamic behavior was made possible using JavaScript and AJAX.
 
-This interface was achieved by designing in HTML, CSS and dynamic behavior was made possible using JavaScript and AJAX.
